@@ -1,5 +1,5 @@
 # Parabank
-  ** Nota
+  > Nota: Antes de ejecutar las preubas la base de prueba debe estar reseteada y modificar los datos de pruebas.
 
 ## Instalar las depentencias
 ```
