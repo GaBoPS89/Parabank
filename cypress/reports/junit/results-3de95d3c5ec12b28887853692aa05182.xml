@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="4.082" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2023-08-06T05:02:49" tests="0" file="cypress/e2e/parabank/Transferencia/Transferencia.cy.js" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Traferencia" timestamp="2023-08-06T05:02:49" tests="1" time="4.069" failures="0">
-    <testcase name="Traferencia Traferencia Exitosa" time="2.996" classname="Traferencia Exitosa">
-    </testcase>
-  </testsuite>
-</testsuites>

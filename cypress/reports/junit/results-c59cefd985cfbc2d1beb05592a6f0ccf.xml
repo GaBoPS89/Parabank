@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.272" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-08-06T14:45:45" tests="0" file="cypress/e2e/parabank/1 Registro/Registro.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Registro" timestamp="2023-08-06T14:45:45" tests="2" time="12.251" failures="0">
+    <testcase name="Registro Registro Usuario Exitoso" time="5.255" classname="Registro Usuario Exitoso">
+    </testcase>
+    <testcase name="Registro Crear Nueva Cuenta" time="4.305" classname="Crear Nueva Cuenta">
+    </testcase>
+  </testsuite>
+</testsuites>

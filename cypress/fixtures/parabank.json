@@ -8,15 +8,15 @@
     "zipCode": "Parabank",
     "phoneNumber": "123456",
     "ssn": "Parabank",
-    "user": "usuario",
-    "pass": "usuario"
+    "user": "user",
+    "pass": "user"
   },
   "login": {
     "user": "user",
     "pass": "user"
   },
   "retiro": {
-    "accountId": "13788",
+    "accountId": "13566",
     "amount": "50.00"
   },
   "transferencia": {
@@ -24,6 +24,6 @@
     "pass": "user",
     "monto": "50.00",
     "cuentaOrigen": "13566",
-    "cuentaDestino": "13788"
+    "cuentaDestino": "13455"
   }
 }

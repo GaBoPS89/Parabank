@@ -26,6 +26,18 @@ describe("Registro", () => {
 
                     .get('.title').should('have.text', 'Welcome ' + res.registro.user)
             })
+    })
 
+    it.only("Crear Nueva Cuenta", () => {
+        cy
+            .fixture(fixture)
+            .then(res => {
+                cy
+                    .sitioWeb()
+                    .loginGeneral({ user: res.login.user, pass: res.login.pass })
+                    .get('#leftPanel > ul > :nth-child(1) > a').click()
+                    .wait(800)
+                    .get('form.ng-pristine > div > .button').click()
+            })
     })
 });

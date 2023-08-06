@@ -11,7 +11,7 @@ describe("Traferencia", () => {
 
                     .get('#leftPanel > ul > :nth-child(3) > a').click()
 
-                    .wait(200)
+                    .wait(500)
                     .get('#amount').type(res.transferencia.monto)
 
                     .get('#fromAccountId').select(res.transferencia.cuentaOrigen).should('have.value', res.transferencia.cuentaOrigen)
