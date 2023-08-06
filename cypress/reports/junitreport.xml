@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <testsuites failures="0" errors="0" tests="5" skipped="0">
-  <testsuite name="Root Suite" timestamp="2023-08-06T14:45:59" tests="0" file="cypress/e2e/parabank/2 Login/Login.cy.js" time="0.000" failures="0"/>
-  <testsuite name="Login" timestamp="2023-08-06T14:45:59" tests="1" time="4.763" failures="0">
-    <testcase name="Login Login Exitoso" time="3.485" classname="Login Exitoso"/>
+  <testsuite name="Root Suite" timestamp="2023-08-06T16:31:39" tests="0" file="cypress/e2e/parabank/4 Transferencia/Transferencia.cy.js" time="0.000" failures="0"/>
+  <testsuite name="Traferencia" timestamp="2023-08-06T16:31:39" tests="1" time="6.663" failures="0">
+    <testcase name="Traferencia Traferencia Exitosa" time="5.606" classname="Traferencia Exitosa"/>
   </testsuite>
-  <testsuite name="Root Suite" timestamp="2023-08-06T14:46:06" tests="0" file="cypress/e2e/parabank/4 Transferencia/Transferencia.cy.js" time="0.000" failures="0"/>
-  <testsuite name="Traferencia" timestamp="2023-08-06T14:46:06" tests="1" time="6.723" failures="0">
-    <testcase name="Traferencia Traferencia Exitosa" time="5.658" classname="Traferencia Exitosa"/>
+  <testsuite name="Root Suite" timestamp="2023-08-06T16:31:38" tests="0" file="cypress/e2e/parabank/3 Retiro/RetiroDinero_api.cy.js" time="0.000" failures="0"/>
+  <testsuite name="Testing API " timestamp="2023-08-06T16:31:38" tests="1" time="0.227" failures="0">
+    <testcase name="Testing API  Retiro de Dinero Exitoso" time="0.218" classname="Retiro de Dinero Exitoso"/>
   </testsuite>
-  <testsuite name="Root Suite" timestamp="2023-08-06T14:46:05" tests="0" file="cypress/e2e/parabank/3 Retiro/RetiroDinero_api.cy.js" time="0.000" failures="0"/>
-  <testsuite name="Testing API " timestamp="2023-08-06T14:46:05" tests="1" time="0.230" failures="0">
-    <testcase name="Testing API  Retiro de Dinero Exitoso" time="0.231" classname="Retiro de Dinero Exitoso"/>
+  <testsuite name="Root Suite" timestamp="2023-08-06T16:31:18" tests="0" file="cypress/e2e/parabank/1 Registro/Registro.cy.js" time="0.000" failures="0"/>
+  <testsuite name="Registro" timestamp="2023-08-06T16:31:18" tests="2" time="13.120" failures="0">
+    <testcase name="Registro Registro Usuario Exitoso" time="6.291" classname="Registro Usuario Exitoso"/>
+    <testcase name="Registro Crear Nueva Cuenta" time="4.316" classname="Crear Nueva Cuenta"/>
   </testsuite>
-  <testsuite name="Root Suite" timestamp="2023-08-06T14:45:45" tests="0" file="cypress/e2e/parabank/1 Registro/Registro.cy.js" time="0.000" failures="0"/>
-  <testsuite name="Registro" timestamp="2023-08-06T14:45:45" tests="2" time="12.251" failures="0">
-    <testcase name="Registro Registro Usuario Exitoso" time="5.255" classname="Registro Usuario Exitoso"/>
-    <testcase name="Registro Crear Nueva Cuenta" time="4.305" classname="Crear Nueva Cuenta"/>
+  <testsuite name="Root Suite" timestamp="2023-08-06T16:31:32" tests="0" file="cypress/e2e/parabank/2 Login/Login.cy.js" time="0.000" failures="0"/>
+  <testsuite name="Login" timestamp="2023-08-06T16:31:32" tests="1" time="4.470" failures="0">
+    <testcase name="Login Login Exitoso" time="3.370" classname="Login Exitoso"/>
   </testsuite>
 </testsuites>

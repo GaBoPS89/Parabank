@@ -1,19 +1,19 @@
 {
   "registro": {
-    "firstName": "Parabank",
-    "lastName": "Parabank",
+    "firstName": "Gabriel",
+    "lastName": "Peralta",
     "street": "Parabank",
     "city": "Parabank",
     "state": "Parabank",
-    "zipCode": "Parabank",
-    "phoneNumber": "123456",
-    "ssn": "Parabank",
+    "zipCode": "9876",
+    "phoneNumber": "12345689",
+    "ssn": "para123",
     "user": "user",
-    "pass": "user"
+    "pass": "user123"
   },
   "login": {
     "user": "user",
-    "pass": "user"
+    "pass": "user123"
   },
   "retiro": {
     "accountId": "13566",
@@ -21,7 +21,7 @@
   },
   "transferencia": {
     "user": "user",
-    "pass": "user",
+    "pass": "user123",
     "monto": "50.00",
     "cuentaOrigen": "13566",
     "cuentaDestino": "13455"
