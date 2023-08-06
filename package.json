@@ -1,0 +1,25 @@
+{
+  "name": "parabank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec 'cypress/e2e/parabank/**/*.cy.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  },
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "crypto-util": "^1.0.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-multi-reporters": "^1.6.3",
+    "js-crypto-utils": "^1.0.4",
+    "junit-report-merger": "^6.0.2",
+    "mocha": "^10.2.0",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}

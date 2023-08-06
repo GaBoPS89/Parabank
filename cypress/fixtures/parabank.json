@@ -1,0 +1,29 @@
+{
+  "registro": {
+    "firstName": "Parabank",
+    "lastName": "Parabank",
+    "street": "Parabank",
+    "city": "Parabank",
+    "state": "Parabank",
+    "zipCode": "Parabank",
+    "phoneNumber": "123456",
+    "ssn": "Parabank",
+    "user": "usuario",
+    "pass": "usuario"
+  },
+  "login": {
+    "user": "user",
+    "pass": "user"
+  },
+  "retiro": {
+    "accountId": "13788",
+    "amount": "50.00"
+  },
+  "transferencia": {
+    "user": "user",
+    "pass": "user",
+    "monto": "50.00",
+    "cuentaOrigen": "13566",
+    "cuentaDestino": "13788"
+  }
+}

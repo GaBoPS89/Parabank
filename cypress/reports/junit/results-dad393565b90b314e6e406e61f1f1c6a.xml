@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.243" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-08-06T05:02:54" tests="0" file="cypress/e2e/parabank/Retiro/RetiroDinero_api.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Testing API " timestamp="2023-08-06T05:02:54" tests="1" time="0.221" failures="0">
+    <testcase name="Testing API  Retiro de Dinero Exitoso" time="0.229" classname="Retiro de Dinero Exitoso">
+    </testcase>
+  </testsuite>
+</testsuites>
